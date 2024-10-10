@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SAHILchavan3771
-- 👀 I’m interested in mavhine learning as well as data science 
+- 👀 I’m interested in machine learning as well as data science 
 - 🌱 I’m currently learning artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate on various projects on machine learning and data science 
 - 📫 How to reach me via my mail - sahilchyavan1234@gmail.com
